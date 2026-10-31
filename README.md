@@ -1,6 +1,6 @@
 # Intelligent Document Research and Analysis Agent — Agentic AI
 
-**Author: Yassir**
+**Author: Yassir EL Haj Tirari**
 
 ## Overview
 
@@ -80,4 +80,4 @@ The program prints the results and saves a Markdown report to `report.md` by def
 
 ## Author
 
-**Yassir**
+**Yassir EL Haj Tirari**
